@@ -8,4 +8,4 @@ I was able to get this done using a white board i had around, I've attached my d
 
 ## Recreate Logical Architectual Diagram in Lucid Charts
 
-Link to my Diagram on LucidCharts
+Link to my Diagram on LucidCharts [Here](https://lucid.app/documents/view/698af135-5610-4c34-aae8-dafdda30f28a)
